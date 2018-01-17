@@ -1,0 +1,6 @@
+﻿  L1_3.vcxproj -> C:\Users\Mantvydas\documents\visual studio 2015\Projects\L1_3\Debug\L1_3.exe
+  L1_3.vcxproj -> C:\Users\Mantvydas\documents\visual studio 2015\Projects\L1_3\Debug\L1_3.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\Mantvydas\documents\visual studio 2015\Projects\L1_3\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.

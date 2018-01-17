@@ -1,0 +1,30 @@
+Futbolas 5
+Antanas 1 6.95
+Kazys 2 8.65
+Petras 1 7.01
+Sonata 4 9.13
+Giedrius 3 9.01
+Tenisas 5
+Jonas 1 6.92
+Martynas 3 9.13
+Arturas 4 7.01
+Vacys 2 8.65
+Robertas 3 6.43
+Slidinėjimas 5
+Mykolas 1 6.93
+Aldona 4 9.13
+Asta 2 7.01
+Viktoras 2 8.65
+Arturas 5 8.32
+Kriketas 5
+Jonas 1 6.90
+Zigmas 3 9.13
+Arturas 1 7.01
+Simas 3 6.43
+Vytas 0 7.85
+Čiuožinėjimas 5
+Miglė 0 4.05
+Jonas 3 7.77
+Tomas 1 8.01
+Egidijus 3 6.06
+Ieva 1 9.16

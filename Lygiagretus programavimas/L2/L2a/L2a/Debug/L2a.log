@@ -1,0 +1,5 @@
+﻿  PalionisRokas_L2a.cpp
+c:\users\rokas\desktop\5 semestras\lygiagretus programavimas\l2\l2a\l2a\palionisrokas_l2a.cpp(171): error C2374: 'filename': redefinition; multiple initialization
+  c:\users\rokas\desktop\5 semestras\lygiagretus programavimas\l2\l2a\l2a\palionisrokas_l2a.cpp(169): note: see declaration of 'filename'
+c:\users\rokas\desktop\5 semestras\lygiagretus programavimas\l2\l2a\l2a\palionisrokas_l2a.cpp(173): error C2374: 'filename': redefinition; multiple initialization
+  c:\users\rokas\desktop\5 semestras\lygiagretus programavimas\l2\l2a\l2a\palionisrokas_l2a.cpp(169): note: see declaration of 'filename'

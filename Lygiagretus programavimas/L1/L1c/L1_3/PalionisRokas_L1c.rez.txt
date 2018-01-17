@@ -1,0 +1,37 @@
+Nr. Pavardë        Pergalës Taðkai
+ 1) Antanaitis            1   6.95
+ 2) Gerðvaitë             1   7.01
+ 3) Giedraitis            3   9.01
+ 4) Ginas                 1   6.66
+ 5) Grigaitis             0   7.85
+ 6) Jomantas              3   7.77
+ 7) Jomantas              4  10.00
+ 8) Jonas                 5   8.88
+ 9) Kelmikas              1   8.01
+10) Kæstas                1   7.04
+11) Klimaitis             2   8.65
+12) Kondratas             3   6.43
+13) Kokytë                3   6.45
+14) Kuprelevièius         3   6.06
+15) Lukas                 4   8.09
+16) Puidokas              4   9.13
+17) Skaèelytë             1   9.16
+
+Nr. Gija Pavardë        Pergalës Taðkai
+ 1)    0 Antanaitis            1   6.95
+ 2)    1 Gerðvaitë             1   7.01
+ 3)    2 Giedraitis            3   9.01
+ 4)    3 Ginas                 1   6.66
+ 5)    8 Kelmikas              1   8.01
+ 6)    9 Kæstas                1   7.04
+ 7)   10 Klimaitis             2   8.65
+ 8)   11 Kondratas             3   6.43
+ 9)   16 Skaèelytë             1   9.16
+10)    4 Grigaitis             0   7.85
+11)    5 Jomantas              3   7.77
+12)    6 Jomantas              4  10.00
+13)    7 Jonas                 5   8.88
+14)   12 Kokytë                3   6.45
+15)   13 Kuprelevièius         3   6.06
+16)   14 Lukas                 4   8.09
+17)   15 Puidokas              4   9.13

@@ -1,0 +1,37 @@
+1 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+ 1) Antanaitis            1   6.95
+ 2) Demeneis              1   7.01
+ 3) Palionis              2   8.50
+
+Nr. Rikiavimo_laukas Kiekis 
+1 ---------------------------------
+
+2 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+
+Nr. Rikiavimo_laukas Kiekis 
+2 ---------------------------------
+
+3 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+
+Nr. Rikiavimo_laukas Kiekis 
+3 ---------------------------------
+
+4 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+
+Nr. Rikiavimo_laukas Kiekis 
+4 ---------------------------------
+
+5 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+
+Nr. Rikiavimo_laukas Kiekis 
+5 ---------------------------------
+
+Nr. Rikiavimo_laukas Kiekis 
+ 1) Antanaitis            1
+ 2) Demeneis              1
+ 3) Palionis              1

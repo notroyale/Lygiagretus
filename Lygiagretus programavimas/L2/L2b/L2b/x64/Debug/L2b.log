@@ -1,0 +1,13 @@
+﻿Build started 10/30/2017 5:35:25 PM.
+     1>Project "C:\Users\Rokas\Desktop\5 semestras\Lygiagretus programavimas\L2\L2b\L2b\L2b.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="14.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt ZakareviciusM_L2b.cpp
+         ZakareviciusM_L2b.cpp
+     1>ZakareviciusM_L2b.cpp(43): error C2864: 'ThreadsMonitor::binner_element_identifier' : only static const integral data members can be initialized within a class
+     1>ZakareviciusM_L2b.cpp(431): warning C4129: 'A' : unrecognized character escape sequence
+     1>Done Building Project "C:\Users\Rokas\Desktop\5 semestras\Lygiagretus programavimas\L2\L2b\L2b\L2b.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.94

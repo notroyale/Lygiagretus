@@ -1,0 +1,31 @@
+1 ---------------------------------
+Nr. Surname        Wins    Points
+
+Nr. Rikiavimo_laukas Kiekis 
+1 ---------------------------------
+
+2 ---------------------------------
+Nr. Surname        Wins    Points
+
+Nr. Rikiavimo_laukas Kiekis 
+2 ---------------------------------
+
+3 ---------------------------------
+Nr. Surname        Wins    Points
+
+Nr. Rikiavimo_laukas Kiekis 
+3 ---------------------------------
+
+4 ---------------------------------
+Nr. Surname        Wins    Points
+
+Nr. Rikiavimo_laukas Kiekis 
+4 ---------------------------------
+
+5 ---------------------------------
+Nr. Surname        Wins    Points
+
+Nr. Rikiavimo_laukas Kiekis 
+5 ---------------------------------
+
+Nr. Rikiavimo_laukas Kiekis 

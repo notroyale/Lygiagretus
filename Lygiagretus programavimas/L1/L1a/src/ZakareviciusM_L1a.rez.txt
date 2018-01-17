@@ -1,0 +1,62 @@
+---- Futbolas ----
+   Vardas         Pergalės Taškai
+1) Antanas        1        6.95
+2) Kazys          2        8.65
+3) Petras         1        7.01
+4) Sonata         4        9.13
+5) Giedrius       3        9.01
+---- Tenisas ----
+   Vardas         Pergalės Taškai
+1) Jonas          1        6.92
+2) Martynas       3        9.13
+3) Arturas        4        7.01
+4) Vacys          2        8.65
+5) Robertas       3        6.43
+---- Slidinėjimas ----
+   Vardas         Pergalės Taškai
+1) Mykolas        1        6.93
+2) Aldona         4        9.13
+3) Asta           2        7.01
+4) Viktoras       2        8.65
+5) Arturas        5        8.32
+---- Kriketas ----
+   Vardas         Pergalės Taškai
+1) Jonas          1        6.90
+2) Zigmas         3        9.13
+3) Arturas        1        7.01
+4) Simas          3        6.43
+5) Vytas          0        7.85
+---- Čiuožinėjimas ----
+   Vardas         Pergalės Taškai
+1) Miglė          0        4.05
+2) Jonas          3        7.77
+3) Tomas          1        8.01
+4) Egidijus       3        6.06
+5) Ieva           1        9.16
+
+Rezultatų pabaiga
+
+gija_3     1 Mykolas        1        6.93
+gija_1     1 Antanas        1        6.95
+gija_2     1 Jonas          1        6.92
+gija_4     1 Jonas          1        6.90
+gija_3     2 Aldona         4        9.13
+gija_4     2 Zigmas         3        9.13
+gija_2     2 Martynas       3        9.13
+gija_1     2 Kazys          2        8.65
+gija_4     3 Arturas        1        7.01
+gija_2     3 Arturas        4        7.01
+gija_1     3 Petras         1        7.01
+gija_3     4 Viktoras       2        8.65
+gija_4     4 Simas          3        6.43
+gija_1     4 Sonata         4        9.13
+gija_4     5 Vytas          0        7.85
+gija_3     5 Arturas        5        8.32
+gija_2     4 Vacys          2        8.65
+gija_1     5 Giedrius       3        9.01
+gija_2     5 Robertas       3        6.43
+gija_5     1 Miglė          0        4.05
+gija_5     2 Jonas          3        7.77
+gija_5     3 Tomas          1        8.01
+gija_5     4 Egidijus       3        6.06
+gija_5     5 Ieva           1        9.16

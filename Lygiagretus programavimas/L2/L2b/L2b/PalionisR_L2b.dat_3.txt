@@ -1,0 +1,59 @@
+5
+Antanaitis 1 6.95
+Demeneis 1 7.01
+Palionis 2 8.50
+Opulskis 1 2.55
+Kerolas 1 8.88
+
+5
+Antanaitis 1
+Demeneis 1 7.01
+Palionis 2 8.50
+Opulskis 1 2.55
+Kerolas 1 8.88
+
+2
+Giedraitis 3 9.01
+Ginas 1 6.66
+
+2
+Palionis 2 8.50
+Kerolas 1 8.88
+
+5
+Grigaitis 0 7.85
+Demeneis 1 7.01
+Opulskis 1 2.55
+Kerolas 1 8.88
+Jomantas 4 10.00
+
+5
+Grigaitis 0 7.85
+Demeneis 1 7.01
+Opulskis 1 2.55
+Kerolas 1 8.88
+Jomantas 4 10.00
+
+5
+Grigaitis 0 7.85
+Demeneis 1 7.01
+Opulskis 1 2.55
+Kerolas 1 8.88
+Jomantas 4 10.00
+
+5
+Grigaitis 0 7.85
+Demeneis 1 7.01
+Opulskis 1 2.55
+Kerolas 1 8.88
+Jomantas 4 10.00
+
+1
+Grigaitis 0 7.85
+
+5
+Grigaitis 0 7.85
+Demeneis 1 7.01
+Opulskis 1 2.55
+Kerolas 1 8.88
+Jomantas 4 10.00

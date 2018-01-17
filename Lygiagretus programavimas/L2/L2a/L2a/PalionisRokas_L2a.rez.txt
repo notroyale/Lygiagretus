@@ -1,0 +1,50 @@
+1 ---------------------------------
+Nr. Surname        Wins    Points
+ 1) Mantas                1   6.95
+ 2) Rokas                 1   7.01
+
+Nr. Rikiavimo_laukas Kiekis 
+ 1) Rokas                 1
+1 ---------------------------------
+
+2 ---------------------------------
+Nr. Surname        Wins    Points
+ 1) Agne                  3   9.01
+ 2) Ginas                 1   6.66
+
+Nr. Rikiavimo_laukas Kiekis 
+ 1) Agne                  1
+2 ---------------------------------
+
+3 ---------------------------------
+Nr. Surname        Wins    Points
+ 1) Agne                  0   7.85
+ 2) Jomantas              3   7.77
+ 3) Jomantas              4  10.00
+
+Nr. Rikiavimo_laukas Kiekis 
+ 1) Jomantas              2
+3 ---------------------------------
+
+4 ---------------------------------
+Nr. Surname        Wins    Points
+ 1) Edis                  1   8.01
+ 2) Dzonas1               7   0.04
+
+Nr. Rikiavimo_laukas Kiekis 
+4 ---------------------------------
+
+5 ---------------------------------
+Nr. Surname        Wins    Points
+ 1) Rokas                 2   8.65
+
+Nr. Rikiavimo_laukas Kiekis 
+ 1) Rokas                 1
+5 ---------------------------------
+
+Nr. Rikiavimo_laukas Kiekis 
+ 1) Agne                  1
+ 2) Dzonas1               1
+ 3) Edis                  1
+ 4) Ginas                 1
+ 5) Mantas                1

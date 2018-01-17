@@ -1,0 +1,29 @@
+2
+Mantas 1 6.95
+Rokas 1 7.01
+
+0
+
+2
+Agne 3 9.01
+Ginas 1 6.66
+
+0
+
+3
+Agne 0 7.85
+Jomantas 3 7.77
+Jomantas 4 10.00
+
+0
+
+2
+Dzonas 1 8.01
+Edis 1 7.04
+
+0
+
+1
+Dzonas 2 8.65
+
+0

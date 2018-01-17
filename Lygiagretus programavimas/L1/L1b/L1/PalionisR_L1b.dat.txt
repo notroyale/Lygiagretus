@@ -1,0 +1,15 @@
+Antanaitis 1 6.95
+Kuprelevièius 3 6.06
+Giedraitis 3 9.01
+Skaèelytë 1 9.16
+Jonaitis 3 7.77
+Klimaitis 2 8.65
+Kokytë 3 6.45
+Gerðvaitë 1 7.01
+Kondratas 3 6.43
+Puidokas 4 9.13
+Kelmikas 1 8.01
+Grigaitis 0 7.85
+Jonas 5 8.88
+Kæstas 1 7.04
+Lukas 4 8.09

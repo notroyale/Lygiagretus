@@ -1,0 +1,84 @@
+1 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+ 1) Antanaitis            1   6.95
+ 2) Gerðvaitë             1   7.01
+ 3) Giedraitis            3   9.01
+ 4) Ginas                 1   6.66
+ 5) Grigaitis             0   7.85
+ 6) Jomantas              3   7.77
+ 7) Jomantas              4  10.00
+ 8) Jonas                 5   8.88
+ 9) Kelmikas              1   8.01
+10) Kæstas                1   7.04
+11) Klimaitis             2   8.65
+
+2 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+ 1) Kondratas             4   5.99
+ 2) Kondratas             3   6.43
+ 3) Kokytë                3   6.45
+ 4) Kupraitis             1   7.90
+ 5) Kuprelevièius         3   6.06
+ 6) Lukaitis              2   8.88
+ 7) Lukas                 4   8.09
+ 8) Lukas                 3   7.89
+ 9) Masaitis              2   6.66
+10) Puidokas              4   9.13
+11) Skaèelytë             1   9.16
+
+3 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+ 1) A                     1   6.95
+ 2) AB                    1   7.01
+ 3) ABC                   3   9.01
+ 4) ABCD                  1   6.66
+ 5) ABCDE                 0   7.85
+ 6) ABCDEF                3   7.77
+ 7) ABCDEFG               4  10.00
+ 8) ABCDEFGH              5   8.88
+ 9) ABCDEFGHI             1   8.01
+10) ABCDEFGHIJ            1   7.04
+11) ABCDEFGHIJK           2   8.65
+
+4 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+ 1) A                     1   1.11
+ 2) AB                    1   1.11
+ 3) ABC                   1   1.11
+ 4) ABCD                  1   1.11
+ 5) ABCDE                 1   1.11
+ 6) ABCDEF                1   1.11
+ 7) ABCDEFG               1   1.11
+ 8) ABCDEFGH              1   1.11
+ 9) ABCDEFGHI             1   1.11
+10) ABCDEFGHIJ            1   1.11
+11) ABCDEFGHIJK           1   1.11
+
+5 ---------------------------------
+Nr. Pavardë        Pergalës Taðkai
+ 1) Pavardë               1  10.00
+ 2) Pavardë2              1  10.00
+ 3) Pavardë3              1  10.00
+ 4) Pavardë4              1  10.00
+ 5) Pavardë5              1  10.00
+ 6) Pavardë6              1  10.00
+ 7) Pavardë7              1  10.00
+ 8) Pavardë8              1  10.00
+ 9) Pavardë9              1  10.00
+10) Pavardë10             1  10.00
+11) Mantvydas             1  10.00
+
+ ----------------------------------
+Nr. Pavardë                                                      Pergalës Taðkai
+ 1) AntanaitisKondratasAAPavardë                                        8  31.00
+ 2) GerðvaitëKondratasABABPavardë2                                      7  31.56
+ 3) GiedraitisKokytëABCABCPavardë3                                     11  35.58
+ 4) GinasKupraitisABCDABCDPavardë4                                      5  32.33
+ 5) GrigaitisKuprelevièiusABCDEABCDEPavardë5                            5  32.87
+ 6) JomantasLukaitisABCDEFABCDEFPavardë6                               10  35.53
+ 7) JomantasLukasABCDEFGABCDEFGPavardë7                                14  39.20
+ 8) JonasLukasABCDEFGHABCDEFGHPavardë8                                 15  36.76
+ 9) KelmikasMasaitisABCDEFGHIABCDEFGHIPavardë9                          6  33.79
+10) KæstasPuidokasABCDEFGHIJABCDEFGHIJPavardë10                         8  34.32
+11) KlimaitisSkaèelytëABCDEFGHIJKABCDEFGHIJKMantvydas                   7  37.57
+

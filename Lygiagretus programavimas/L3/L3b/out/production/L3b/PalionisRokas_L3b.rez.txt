@@ -1,0 +1,74 @@
+1 ---------------------------------
+Nr. Surname        Streak Score
+ 1) Player1        1        6.95 
+ 2) Player2        1        7.01 
+ 3) Player3        2        6.66 
+ 4) Player4        1        9.99 
+ 5) Player5        2        7.70 
+
+Nr. Sorting_Field Amount
+ 1) Player1          1       
+ 2) Player2          1       
+ 3) Player3          1       
+ 4) Player4          1       
+-----------------------------------
+2 ---------------------------------
+Nr. Surname        Streak Score
+ 1) Player6        3        9.01 
+ 2) Player7        1        6.66 
+ 3) Player8        2        4.44 
+ 4) Player9        2        6.45 
+ 5) Player10       1        8.81 
+
+Nr. Sorting_Field Amount
+ 1) Player6          1       
+ 2) Player7          1       
+ 3) Player8          1       
+ 4) Player9          1       
+-----------------------------------
+3 ---------------------------------
+Nr. Surname        Streak Score
+ 1) Player11       0        7.85 
+ 2) Player11       1        4.78 
+ 3) Player12       3        7.77 
+ 4) Player12       4        10.00 
+ 5) Player13       3        9.00 
+
+Nr. Sorting_Field Amount
+ 1) Player11         1       
+ 2) Player12         2       
+ 3) Player13         1       
+-----------------------------------
+4 ---------------------------------
+Nr. Surname        Streak Score
+ 1) Player14       1        8.01 
+ 2) Player15       1        7.04 
+ 3) Player16       2        5.55 
+ 4) Player17       3        4.66 
+ 5) Player17       0        6.45 
+
+Nr. Sorting_Field Amount
+ 1) Player14         1       
+ 2) Player15         1       
+ 3) Player17         2       
+-----------------------------------
+5 ---------------------------------
+Nr. Surname        Streak Score
+ 1) Player18       2        8.65 
+ 2) Player19       3        8.88 
+ 3) Player19       1        6.89 
+ 4) Player20       2        3.89 
+ 5) Player21       1        5.55 
+
+Nr. Sorting_Field Amount
+ 1) Player18         1       
+ 2) Player19         1       
+ 3) Player20         1       
+ 4) Player21         1       
+-----------------------------------
+
+Nr. Sorting_Field Amount
+ 1) Player10         1       
+ 2) Player16         1       
+ 3) Player5          1       
+ ---------------------------------
